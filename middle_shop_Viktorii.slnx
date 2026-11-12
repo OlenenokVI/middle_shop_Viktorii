@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="middle_shop_Viktorii.vcxproj" />
+  <Project Path="middle_shop_Viktorii.vcxproj" Id="fa512ef7-2450-4570-88d0-a5731726bb5d" />
 </Solution>
