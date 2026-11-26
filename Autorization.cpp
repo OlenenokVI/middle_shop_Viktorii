@@ -109,7 +109,7 @@ void SuperAdminMenu()
 			ChangeStorage();
 		}
 		else if (choose == L"7") {
-
+			ChangeAccounts();
 		}
 		else if (choose == L"8") {
 
